@@ -1,1 +1,2 @@
 # Employee-Performance-Predictor
+So, this is the case study about Amazon where the employees were not performing well and also the talented employees were leaving the company . This case study shows the reason behind the low performance and also we are able to predict the performance of employees using certain parameters by using Multiple Linear Regression. The whole case study and dashboard is done on Excel.
